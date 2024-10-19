@@ -1,0 +1,7 @@
+C:\socket\serversocket\serverwinform\bin\Debug\serverwinform.exe.config
+C:\socket\serversocket\serverwinform\bin\Debug\serverwinform.exe
+C:\socket\serversocket\serverwinform\bin\Debug\serverwinform.pdb
+C:\socket\serversocket\serverwinform\obj\Debug\serverwinform.csproj.AssemblyReference.cache
+C:\socket\serversocket\serverwinform\obj\Debug\serverwinform.csproj.CoreCompileInputs.cache
+C:\socket\serversocket\serverwinform\obj\Debug\serverwinform.exe
+C:\socket\serversocket\serverwinform\obj\Debug\serverwinform.pdb

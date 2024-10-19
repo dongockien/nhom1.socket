@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\..\\serversocket\\serverwinform\\serverwinform.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WindowsFormsApp1.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

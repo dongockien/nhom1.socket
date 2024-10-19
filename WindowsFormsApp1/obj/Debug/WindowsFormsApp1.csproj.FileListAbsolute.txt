@@ -1,0 +1,10 @@
+C:\socket\winformPassword\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\socket\winformPassword\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\socket\winformPassword\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\socket\winformPassword\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\socket\winformPassword\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\socket\winformPassword\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\socket\winformPassword\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\socket\winformPassword\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\socket\winformPassword\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\socket\winformPassword\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
